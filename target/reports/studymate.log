@@ -1,0 +1,27 @@
+2023-07-06 13:11:47 INFO  LoginStepsTest:26 - User:sakydin.tashmurzaev.kk@gmail.comis on Login page 
+2023-07-06 13:11:48 INFO  LoginStepsTest:36 - User entered email:sakydin.tashmurzaev.kk@gmail.com
+2023-07-06 13:11:48 INFO  LoginStepsTest:42 - User:sakydin.tashmurzaev.kk@gmail.comentered password
+2023-07-06 13:11:48 INFO  LoginStepsTest:48 - Use clicked on login button
+2023-07-06 13:11:48 INFO  LoginStepsTest:53 - Waiting for 3 seconds 
+2023-07-06 13:11:51 INFO  LoginStepsTest:58 - Verified the Login page URL 
+2023-07-06 13:11:51 WARN  LoginStepsTest:59 - This is my warn message 
+2023-07-06 13:11:51 ERROR LoginStepsTest:60 - Oops there is some error
+2023-07-06 13:11:51 INFO  HooksTest:26 - io.cucumber.java.Scenario@23a5818ePassed
+2023-07-06 13:12:14 INFO  LoginStepsTest:26 - User:sakydin.tashmurzaev.kk@gmail.comis on Login page 
+2023-07-06 13:12:15 INFO  LoginStepsTest:36 - User entered email:sakydin.tashmurzaev.kk@gmail.com
+2023-07-06 13:12:15 INFO  LoginStepsTest:42 - User:sakydin.tashmurzaev.kk@gmail.comentered password
+2023-07-06 13:12:15 INFO  LoginStepsTest:48 - Use clicked on login button
+2023-07-06 13:12:15 INFO  LoginStepsTest:53 - Waiting for 3 seconds 
+2023-07-06 13:12:19 INFO  LoginStepsTest:58 - Verified the Login page URL 
+2023-07-06 13:12:19 WARN  LoginStepsTest:59 - This is my warn message 
+2023-07-06 13:12:19 ERROR LoginStepsTest:60 - Oops there is some error
+2023-07-06 13:12:19 INFO  HooksTest:26 - io.cucumber.java.Scenario@23a5818ePassed
+2023-07-06 13:14:07 INFO  LoginStepsTest:26 - User:sakydin.tashmurzaev.kk@gmail.comis on Login page 
+2023-07-06 13:14:08 INFO  LoginStepsTest:36 - User entered email:sakydin.tashmurzaev.kk@gmail.com
+2023-07-06 13:14:08 INFO  LoginStepsTest:42 - User:sakydin.tashmurzaev.kk@gmail.comentered password
+2023-07-06 13:14:08 INFO  LoginStepsTest:48 - Use clicked on login button
+2023-07-06 13:14:08 INFO  LoginStepsTest:53 - Waiting for 3 seconds 
+2023-07-06 13:14:11 INFO  LoginStepsTest:58 - Verified the Login page URL 
+2023-07-06 13:14:11 WARN  LoginStepsTest:59 - This is my warn message 
+2023-07-06 13:14:11 ERROR LoginStepsTest:60 - Oops there is some error
+2023-07-06 13:14:11 INFO  HooksTest:26 - io.cucumber.java.Scenario@23a5818ePassed
